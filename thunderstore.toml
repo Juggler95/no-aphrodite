@@ -3,11 +3,11 @@ schemaVersion = "0.0.1"
 
 
 [package]
-namespace = "AuthorName"
-name = "ModName"
+namespace = "Juggler95"
+name = "No Aphrodite"
 versionNumber = "0.0.1"
-description = "Allows to do some super duper thing."
-websiteUrl = "https://github.com/AuthorName/ModName"
+description = "Removes Aphrodite portraits from Hades 2"
+websiteUrl = "https://github.com/Juggler95/no-aphrodite#"
 containsNsfwContent = false
 
 [package.dependencies]

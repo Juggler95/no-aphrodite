@@ -15,3 +15,4 @@ This mod Removes Aphrodite Portraits from the game
 
 - This mod doesn't remove Aphrodite from the codex.
 - I am working on getting it fixed but having a hard time.
+- I did use AI to help generate code

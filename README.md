@@ -9,7 +9,7 @@ This mod Removes Aphrodite Portraits from the game
 
 - To Install go Install thunderstore app
 - Then search for Hades 2 game
-- Then you can find this mod there
+- In the online tab search for "No Aphrodite" and then hit install
 
 ## Notes
 

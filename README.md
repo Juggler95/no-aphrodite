@@ -1,15 +1,17 @@
 # Mod name
-
-Hades II mod allowing to do some super duper thing.
+No Aphrodite Portraits
 
 ## Features
 
-- Wow.
-- Much cool.
-  - Very doge.
+This mod Removes Aphrodite Portraits from the game
 
 ## Install
 
-- Do this.
-- Do that.
-  - Nope, not that.
+- To Install go Install thunderstore app
+- Then search for Hades 2 game
+- Then you can find this mod there
+
+## Notes
+
+- This mod doesn't remove Aphrodite from the codex.
+- I am working on getting it fixed but having a hard time.

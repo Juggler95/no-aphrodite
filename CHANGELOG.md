@@ -7,11 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-06-28
+
 ## [1.0.0] - 2026-06-28
 
 ### Added
 
 - First version of the mod!
 
-[unreleased]: https://github.com/Juggler95/no-aphrodite/compare/1.0.0...HEAD
+[unreleased]: https://github.com/Juggler95/no-aphrodite/compare/1.0.1...HEAD
+[1.0.1]: https://github.com/Juggler95/no-aphrodite/compare/1.0.0...1.0.1
 [1.0.0]: https://github.com/Juggler95/no-aphrodite/compare/3d0f5f611a68e5a17f02235a334f03b98e718295...1.0.0

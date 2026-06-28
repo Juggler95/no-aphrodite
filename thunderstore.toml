@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "Juggler95"
-name = "No Aphrodite"
+name = "No-Aphrodite"
 versionNumber = "1.0.0"
 description = "Makes Aphrodite a blank portrait, And optionally removes Mel's portrait as Well."
 websiteUrl = "https://github.com/Juggler95/no-aphrodite#"
